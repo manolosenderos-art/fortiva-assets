@@ -1,0 +1,242 @@
+Subject: Morning Markets Desk · Fri Sep 11, 2026 · Newsletter
+
+---
+
+# Morning Markets Desk · Friday, September 11, 2026
+
+Manolo · Live Investment Tracker (HIS Mac) · UI NW ~$79,205 (−0.40% 1W @ ~10:48 CDMX) · DRAM CLOSED · Quotes ~9:33am PT unless noted · Yahoo / BLS / Reuters / CNBC · Never place trades · No qty or P&L tables in this letter
+
+---
+
+## Lead
+
+US equities are up about one percent in the Friday cash session — S&P near 7,667, Nasdaq-100 near 29,399, Dow near 52,624 — clawing back a four-day losing streak after August CPI printed and oil finally cooled off Thursday’s Hormuz and Red Sea spike. Premarket had already pointed to a gap-up into the 05:30 PT CPI release: Seeking Alpha’s pre-dawn wrap had ES roughly +0.37% and NQ roughly +0.41%, and Yahoo’s live page earlier showed ES near 7,642 with NQ near 29,326 while VIX still sat around 17.1. Once the headline landed in-line at +0.4% MoM / +3.4% YoY, futures and then cash leaned into the relief bid even though core MoM ran hot at +0.3% versus a 0.2% consensus. That split print is the entire Friday mechanism in miniature: the event cleared, the regime did not.
+
+The mechanism in one sentence is this: oil coming off roughly $108 Brent and $103 WTI, plus an “as-expected” headline CPI, unlocked a risk bounce, while the sticky core and still-elevated crude kept Fed hike odds for next week near 90%. VIX has crushed from Thursday’s about 17.8 toward ~15.7; the 10-year sits near 4.96% after tagging almost 5%. Green screens and a hike base case at the same time are not a contradiction if you separate the event from the regime. The event was CPI risk, and it cleared. The regime is energy geopolitics feeding inflation into a hawkish September FOMC, and that is still very much alive. CNBC’s Wall Street tape after the print was blunt: BMO’s Ian Lyngen said the report “clears the path” for a hike with futures near ~90%; Wells Fargo’s Darrell Cronk said the surprise function is now if the Fed stays on hold; Regan Capital’s Skyler Weinand called a hike “all but assured.” That is the consensus your Nasdaq and semi multiples are discounting into Wednesday.
+
+Oracle’s AI-cloud confirmation overnight is the constructive counterweight underneath the bounce. Hyperscale and neo-cloud capacity demand is still converting into backlog and GPU deployments, which is why SMH and ASML can participate even on a hike-odds day. Oracle delivered roughly 850 MW of incremental data-center capacity and more than 300,000 GPUs to AI cloud customers in the quarter; cloud infrastructure grew +121% to $7.4B; remaining performance obligations sit at $664B after more than $30B of new AI contracts. That is not a one-day story. It is the demand side of the AI infrastructure cycle showing up in a public company’s backlog while the macro side of the same book is getting repriced by oil and the Fed. For this Fidelity book — already heavy Nasdaq and semis — that means enjoy the clawback, babysit the GOOG LEAP, and wait for clean dips rather than paying mid-zone into Wednesday’s decision. Green screens today are real. They are also rented until FOMC.
+
+The live Investment Tracker on your Mac (screenshot ~10:48 CDMX) puts net worth near $79,205, down about $318 (−0.40%) over the past week — a soft week that matches the oil-and-PPI scare more than today’s bounce. Under the hood the book is still crypto-heavy (about 62% of net worth), with Bitcoin as the core sleeve you do not sell, plus a Fidelity equity sleeve that is already concentrated in Nasdaq and semiconductors. Cash in SPAXX is the dry powder for any clean dip; you do not own AVGO today, so the Broadcom zone below is a watch-to-buy, not an add to an existing line. The only open LEAP remains GOOG Mar’27 375C, and the live mark is still underwater versus cost — which is exactly why the $323 close rule stays structural, not emotional. DRAM is closed and stays off the open book. The second-order read for Friday is simple: the bounce repairs some of the week’s damage without granting permission to add the stacks that already dominate the equity sleeve.
+
+---
+
+## Do today
+
+- Watch: FOMC Sep 15–16 hike base case (~86–90% futures wraps post-CPI) · GOOG daily close versus ~$323 babysit · oil whether Hormuz “deal talk” / Monday Salalah chatter sticks or fails · diesel and retail energy as the inflation channel that can re-scare multiples
+- Buy only if: AVGO (not currently held) pulls back into $358–362 shares using SPAXX dry powder — it is ~$365 now, do not chase mid-zone · optional ISRG only on a $360–365 pullback that holds through the session
+- Do nothing if: adding QQQ / SMH / semi stack · META Muse FOMO · ORCL post-print chase · averaging the GOOG LEAP · any new LEAP · mid-zone AMAT (~$460+) · sizing into FOMC week
+
+---
+
+## Tape
+
+Thursday closed soft — S&P 7,591.70 (−0.6%), NDX −1.1%, VIX 17.84, Brent $108.05, WTI $102.92, 10Y 4.94% — with hot PPI and the Iran/Red Sea oil shock still dominating the narrative. Overnight into Friday, index futures firmed ahead of CPI. Seeking Alpha’s pre-dawn wrap had Dow futures roughly +0.3%, S&P roughly +0.4%, Nasdaq roughly +0.4%. Yahoo’s live page earlier showed ES ~7,642 / NQ ~29,326 / VIX ~17.1. The morning desk pull ~6:46am PT (post-CPI) already had ES ~7,677, NQ ~29,413, VIX ~16.1, WTI ~$98.8, Brent ~$104.1 — same story as the cash open: bounce plus oil cooling.
+
+After the print and the oil fade, cash is bid. At the Yahoo stamp ~9:33am PT Friday: S&P 500 7,667 (+1.0%), Nasdaq-100 29,399 (+1.0%), Dow 52,624 (+1.1%), Nasdaq Composite 26,366 (+1.1%), VIX 15.72 (−11.9%), 10-year 4.955% (tagged 4.985 intraday), DXY 99.06 flat, WTI $99.69 (−2.7%), Brent $105.14 (−2.3%), gold futures ~$4,400 (~−0.2%), BTC ~$77,605 (+1.4%), SOL ~$101.63 (+3.0%). Reuters’ earlier London stamp had Brent nearer $106 and WTI still over $100 before Hormuz-deal chatter knocked the complex lower; either way, the week’s message is structural tightness, not a one-day fade.
+
+Oil is still on pace for a >$100 weekly close and an ~8%+ / >10% weekly gain even after Friday’s pullback — that is the macro overhang the bounce has not erased. Crypto is tagging along with risk (SOL reclaiming ~$100); treat it as mood for the MSTR sleeve, not a trading mandate. Gold’s quiet tape around $4,400 futures / GLD ~$400 says the market has not chosen a pure panic-hedge path. It has chosen rate-path anxiety with intermittent geopolitics, which is harder on long-duration tech multiples than on a classic crisis bid. For a book that is already long Nasdaq duration and semi beta, that tape shape matters more than the green day-change column.
+
+Chart — oil shock + Friday cool (embed full-res): `/workspace/leaps/morning-2026-09-11/chart-oil.jpg`
+
+Caption: Three-month daily Yahoo chart (~6:46am PT Fri stamp) of WTI (red) and Brent (dark blue) with a dashed $100 line. Both benchmarks spent most of summer in a $70–$95 range, tagged $100 briefly in late July, then broke vertically this week — Brent into the mid-$100s, WTI through $100 — before a small Friday fade that still leaves Brent well above $100. This is the visual of the supply shock, not a finished reversal. Illustrative of the macro channel into CPI, PPI, and FOMC — not a trade chart for any owned ticker.
+
+---
+
+## News on your names
+
+### META — Muse hangover, then a quieter bid
+
+What happened: Muse, Meta’s paid personal AI agent ($20 / $100 tiers), launched September 8 and sparked a company-specific re-rating Wednesday (~+5–6% toward ~$650). Thursday gave some of it back (−1.4% to $644.38). The youth-safety settlement with state AGs ($12.7–18B over a decade) was read as an overhang clear rather than a thesis break — markets often prefer a known multi-year cash cost to an open-ended regulatory fog. Friday Meta is ~$650 (+0.8%) — stabilizing inside the post-Muse range, not making a fresh breakout. SF AI-ads regulatory noise is still in the tape per the morning desk, which is another reason not to treat Wednesday’s spike as a new permanent floor. TrendSpider’s public X capture of the Muse gap (5-minute view) shows exactly that vertical premarket bid followed by consolidation — useful as an illustrative community signal of how the launch was absorbed, not as an order.
+
+Why it matters: Muse is the first clean consumer AI subscription anchor against a huge capex plan. That is strategically important for the multi-year AI story you already own through Meta. The second-order question is monetization proof: tier conversion, retention, and whether the $100 “pro” layer actually scales matter more than the launch-day narrative. A product that looks like a durable subscription wedge re-rates the multiple; a product that looks like a PR splash does not. FOMC week is a bad place to pay up for that uncertainty, because the multiple itself is being repriced by the rate path even if the product thesis is intact.
+
+For you: Owned — hold. Do not chase Muse strength into the meeting. A quiet Friday bid after a Wednesday spike and Thursday giveback is exactly the kind of tape where FOMO feels clever and then gets repriced by a hawkish SEP. Let the position work; do not turn a product launch into an FOMC-week add. The book already expresses AI demand through Meta, MSFT, NVDA, ASML, and the semi ETFs — stacking more Meta beta on top of that into Wednesday is concentration dressed as conviction.
+
+More: Meta Muse announcement (https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/) · 247WallSt Muse wrap (https://247wallst.com/investing/2026/09/09/meta-rises-6-as-muse-ai-agent-arrives-with-paid-subscription-tiers-alphabet-falls-2/)
+
+TrendSpider asset (illustrative, community signal): `/workspace/markets-desk/newsletter-v3c-assets/ts-meta.jpg` — TrendSpider X capture of META +5%+ premarket on Muse with a 5-minute chart of the gap-and-hold. Not your exact position size; useful context for how the launch traded.
+
+### GOOG — owned Mar’27 375C babysit (DRAM CLOSED)
+
+What happened: Alphabet absorbed EU search-change / DMA quality warnings midweek and a competitive read from Muse (Wednesday GOOGL roughly −2% on the agent competition framing). Thursday GOOG closed $330.39 with a day low of $325.65 — close enough to the babysit line to keep attention honest, not close enough to trip it. Friday GOOG is ~$337.5 (+2.2%) / GOOGL ~$340.4 (+2.3%), with the day low earlier still ~$333 — comfortably above the rethink line. Midweek Finland clean-energy / AI infrastructure support (€13bn across Hamina/Kajaani/Muhos/Vaala, plus Fortum Loviisa nuclear PPA through 2050, wind, and a 94 MW battery) remains a constructive long-cycle note for the AI-power thesis, but it does not rewrite the LEAP stop rule.
+
+Why it matters: Your only open LEAP is the GOOG Mar’27 375C. Structure, not vibes, gates the babysit. A +2% Friday bounce after a midweek wash is encouraging for the equity, and it widens the cushion above $323, but LEAP convexity still dies if daily closes start accepting below that line. Competitive AI-agent noise (Muse) and EU DMA friction are real; they are not, by themselves, a reason to average into a hike-base-case week. The second-order effect of a hike base case on long-duration call options is mechanical: higher discount rates and equity volatility into the meeting can keep the mark sticky even when the underlying bounces a couple of percent.
+
+For you: The live mark on the Mar’27 375C is still underwater versus your average cost (~$19.3 mark vs ~$27.16 cost in the tracker snap) — that is the whole point of a babysit, not a reason to average. Rethink only if the underlying daily-closes under ~$323. Do not average the LEAP into FOMC. DRAM remains CLOSED. Treat Friday’s strength as babysit relief, not as permission to add duration. SPAXX is for clean share dips elsewhere, not for averaging a LEAP that is already the book’s only options exposure.
+
+Chart — GOOG babysit $323 + AVGO zone (embed full-res): `/workspace/leaps/morning-2026-09-11/chart-goog-avgo.jpg`
+
+Caption: Two-panel Yahoo structure chart. Top: GOOG with the green dotted $375 strike and the red dashed $323 LEAP babysit line — price bounced near $323 in late July, reclaimed toward the mid-$370s in August, and is now mid-$330s with a cushion above the rethink line after Friday’s bid. Bottom: AVGO with the green shaded $358–372 brother band and red dashed $344 stop — Friday price sits mid-zone near ~$365 after Thursday tagged the lower half. This is his exact babysit/zone map for the owned LEAP and the watch-only Broadcom idea.
+
+### NVDA / MSFT / SMH / ASML / ORCL spillover — confirmation, not a stack add
+
+What happened: Oracle’s Thursday AH print was a clean AI-cloud confirmation — adj EPS $1.92 vs ~$1.74, revenue ~$19.3–19.35B (+30%), total cloud $11.6B (+62%), cloud infrastructure +121% to $7.4B, RPO $664B after more than $30B new AI contracts, and free-cash-flow burn −$5.4B better than the roughly −$9.6B feared. Operational color that matters for your stack: Oracle said it delivered ~850 MW of incremental data-center capacity and more than 300,000 GPUs to AI cloud customers in the quarter; cloud is now more than 60% of revenue; management guided Q2 revenue growth still ~30%+ and FY27 total revenue at least ~$90B (CNBC / PR Newswire / Reuters). Premarket Friday, Reuters had ORCL ~+5.5% as the backlog beat eased debt-spend anxiety; morning cash wraps later in the session still showed the spillover alive even when the stock itself chopped.
+
+At the desk’s ~9:33am PT Yahoo stamp the owned stack was: SMH ~$570 (+1.7%), ASML ~$1,709 (+1.3%), MSFT ~$495 (+0.6%), NVDA ~$219 (+0.3%), AVGO ~$365 (+1.0%). That is exactly the translation you want from a good ORCL print into your book: confirmation without a forced chase. Public TrendSpider color on SK Hynix breaking out to new highs (illustrative memory/HBM tape, not an owned ticker) is the same ecosystem read — AI silicon and memory demand is still alive even while SMH lags QQQ on a three-month indexed basis.
+
+Why it matters: Demand for AI training and inferencing capacity is still expanding even with hike odds rising. GPU delivery, custom silicon, networking, and lithography all sit downstream of that backlog conversion. That supports holding the AI core. The second-order effect is the trap: a good print makes stacking more semi beta feel “confirmed,” when what it actually confirms is that the thesis is intact while the sizing is already heavy. You do not need a fourth hyperscale proxy when MSFT and the semi stack already express the same demand. Brother’s NVDA add seed at $190–198 is KILL for this book — you are already long far above it, and stacking more Nvidia beta into a hike-base-case week is concentration, not discipline.
+
+For you: Hold owned names. No QQQ / SMH / SOXX / NVDA / ASML adds. No ORCL chase — price is nowhere near any deep value / brother-style zone. The QQQ-versus-SMH chart below is the concentration picture in one image: Nasdaq has mostly repaired the summer wash; semis have not, which is why today’s SMH bounce feels good and still does not authorize an add.
+
+Sources: Reuters Oracle AH beat (https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10/) · Reuters Friday backlog reaction (https://www.reuters.com/business/retail-consumer/oracle-shares-rise-ai-cloud-backlog-beats-estimates-2026-09-11/) · CNBC Oracle Q1 (https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html) · PR Newswire (https://www.prnewswire.com/news-releases/oracle-announces-q1-results-driven-by-triple-digit-growth-in-cloud-infrastructure-revenues-302875728.html)
+
+Chart — QQQ vs SMH concentration / relative strength (embed full-res): `/workspace/leaps/morning-2026-09-11/chart-qqq-smh.jpg`
+
+Caption: Three-month indexed (base 100) Yahoo chart of QQQ (blue) versus SMH (orange), stamped ~6:46am PT. SMH led into late June (~110), then washed harder into the July low (~83) while QQQ bottomed nearer ~92; August recovery brought QQQ back near the mid-June baseline while SMH stalled in the low-to-mid 90s. That gap is the visual of your semi-sleeve drag versus the broader Nasdaq sleeve — and the reason “no stack adds” is a concentration call, not a thesis call. Exact owned ETFs, not illustrative proxies.
+
+TrendSpider asset (illustrative ecosystem, not owned): `/workspace/markets-desk/newsletter-v3c-assets/ts-skhynix.jpg` — TrendSpider daily of SK Hynix (~$195) breaking a multi-month triangle to ATH. Memory/HBM color for the AI silicon complex that sits under SMH/NVDA; not a ticker you hold and not an entry idea.
+
+### AVGO / AMAT / ISRG — the only swing map that matters today
+
+You do not hold AVGO in the live tracker — this is a swing candidate funded by SPAXX dry powder, not an add to an existing Broadcom line. Broadcom ~$364.6 (+1.0%) is sitting mid brother zone after Thursday’s $357.75 low and $360.83 close — structure intact, not a flush, and not a gift either. Applied Materials ~$462.6 (+1.9%) is mid/upper of its band after Thursday’s −3.2% wash into $454. Intuitive Surgical ~$368.8 (+2.3%) already did the deep-zone work Thursday ($345.25 low → $360.46 reclaim) and is extending into mid-primary Friday. Full keep / move / kill logic is in Entries below; the one-line for this section is: only AVGO dips and an optional ISRG pullback are actionable; AMAT mid-zone is a do-nothing.
+
+### BE — inclusion rip, keep discipline
+
+Bloom is ripping ~$276 (+6.8%) on S&P 500 inclusion (Sep 21) chatter and the AI-power / Power Connect narrative after Thursday’s wash. Volatile name; litigation and supply-chain noise have not vanished just because the index committee said yes. Inclusion flows can be real into the Sep 21 effective date, and they can also reverse the moment the forced buyers are done. The second-order link to the rest of the book is the same power bottleneck Google’s Finland blueprint is solving with nuclear and batteries: AI compute is increasingly an energy story, which is why BE belongs in the narrative even when it does not belong in today’s buy list.
+
+For you: Keep GTC discipline. Do not chase the inclusion rip into FOMC. If you already have a working order framework, let it work; do not convert a +7% morning into a market order. Owned — hold the thesis, refuse the chase.
+
+### MSTR / crypto sleeve
+
+MSTR ~$133 (+3.7%) with BTC ~$77.6k — book noise, crypto sleeve context only. The live tracker still shows the book as roughly 62% crypto by net worth, with Bitcoin as the core sleeve you do not sell and smaller ETH/SOL/alt exposure underneath. Friday’s crypto bid (BTC +1.4%, SOL reclaiming ~$100) is risk appetite tagging along with equities, not a separate macro regime and not a mandate to trade MSTR around the CPI print. GLD ~$400 (+0.9%) / IAU ~$82 (+0.9%) quietly higher with gold futures soft-to-flat; no action required. Neither sleeve is telling you to do anything tactical before Wednesday.
+
+For you: Treat MSTR as leveraged BTC mood for a sleeve you already size through spot crypto. Soft or firm prints into FOMC are noise unless the Bitcoin thesis itself breaks — and that is not today’s call.
+
+---
+
+## Macro that hits the book
+
+August CPI (BLS, 05:30 PT) was the classic split print — and Wall Street’s post-print language made the Fed path unusually blunt. Headline +0.4% MoM / +3.4% YoY matched consensus and let equity algos exhale. Core +0.3% MoM (hot vs 0.2%) with gasoline +3.9% driving roughly a third of the headline, energy +2.1% MoM / +16.3% YoY, shelter +0.3%, and transportation services +0.5% told the Fed a different story: energy geopolitics is leaking into consumer prices, and monthly core is not cooperating with a patient hold. Food was comparatively calm (+0.1% MoM / +2.7% YoY). Traders pushed September 16 hike odds from roughly 70–72% pre-print toward ~86–90% (CME FedWatch via CNBC). The policy-sensitive 2-year firmed to levels not seen in more than two years in some wraps; the 10-year kissed ~4.99% then settled near 4.96%. Fed funds are still in the 3.50–3.75% range set since the divided July meeting; Wednesday’s SEP and dots will matter as much as the binary hike/hold.
+
+That CPI sits on top of Thursday’s PPI — final demand +0.4% MoM / +5.4% YoY, goods +1.1%, energy +4.2%, diesel +24.1% MoM (more than a third of the goods rise), services only +0.1%. Wholesale pain first, pump prices second, sticky services risk third. Core PPI variants still sticky around the mid-4%s YoY. The consumer echo arrived on schedule Friday via gasoline. For long-duration Nasdaq multiples, the chain is mechanical: sticky energy into sticky CPI/PPI into higher-for-longer hike risk into compressed multiples on QQQ, TQQQ, and SMH. That is why a green Friday and a hike base case can coexist — the event risk cleared while the discount-rate path hardened.
+
+Oil’s Friday fade (WTI back under $100 at the desk stamp, Brent ~$105) is helpful for the risk bid and for inflation optics into the weekend, but the supply tape is not healed. Reuters: Hormuz vessel transits fell to seven Thursday versus eleven the prior day and a 10-day average of ~15 — versus roughly 125 large commercial vessels a day before the Iran war. Saudi August crude supply fell 2.3 mb/d to about 6 mb/d, the lowest in more than 30 years (IEA via Reuters). Houthis seized Mocha near Bab el-Mandeb Thursday and pressure toward Perim island remained in Friday sourcing. US diesel retail hit a GasBuddy record above $6/gal. Against that backdrop, FT reporting that Middle East ministers are exploring a temporary Hormuz shipping arrangement with Iran — with follow-on chatter of Gulf foreign ministers meeting Iranian counterparts Monday in Salalah, Oman — is enough to knock a few dollars off Brent for a session. It is not enough to restore the inventory buffer or kill the diesel problem. Reuters could not immediately verify the FT meeting report; treat it as deal talk, not a done deal.
+
+For a book concentrated in Nasdaq and semis, with a crypto-heavy NW that still leaves the equity sleeve rate-sensitive, the correct read is mechanical: sticky energy → sticky CPI/PPI → higher-for-longer / hike risk → compressed multiples on QQQ/TQQQ/SMH. Friday’s oil cool is relief, not regime change. Oracle’s print is the other half of the story — AI infrastructure spend is still real — which is why the right posture is hold the AI core, buy only clean dips, treat cash as a position into Wednesday. Enjoy the bounce. Do not add the stacks. The GOOG LEAP babysit stays structural precisely because this is the kind of week where duration gets marked around the Fed path even when the underlying bounces.
+
+Sources: CNBC CPI wrap (https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html) · CNBC Wall Street on CPI / hike odds (https://www.cnbc.com/2026/09/11/august-consumer-inflation-cements-fed-rate-hike-odds-what-wall-street-is-saying.html) · BLS CPI (https://www.bls.gov/news.release/cpi.nr0.htm) · Reuters oil Fri (https://www.reuters.com/business/energy/oil-prices-set-end-week-over-100-first-time-nearly-4-months-2026-09-11/) · Reuters Hormuz traffic (https://www.reuters.com/world/middle-east/hormuz-shipping-traffic-falls-to-single-digits-data-shows-2026-09-11/)
+
+---
+
+## Entries (deep research)
+
+Brother’s LEAPS calendar is the seed map, not gospel. Fresh prices and FOMC-week risk forced keep / move / kill calls below. Prefer shares. No new LEAPs today. Concentration reminder: be picky — one clean dip beats three mid-zone hopes. SPAXX is dry powder for zone fills only; you do not currently hold AVGO, so any fill is a new line, not an average-up.
+
+### 1) AVGO — KEEP $358–372 / stop $344 · preferred fill MOVE → $358–362 only
+
+Broadcom is ~$364.6 Friday, up ~1% after Thursday tagged $357.75 and closed $360.83 — still inside the brother band, lower half already proven. Daily structure is a constructive reclaim above $360 with the AI networking / custom silicon / ASIC narrative reinforced by Oracle’s capacity build, GPU delivery commentary, and the broader hyperscale backlog conversion. Relative strength versus SMH’s +1.7% bounce is soft-to-neutral rather than leadership — another reason not to pay the top of the zone. Hourly structure shows a bounce off the Thursday low, not a breakdown and not a vacuum fill. The stock spent Thursday proving the lower half of the brother band; Friday is spending the bounce sitting mid-zone. That is permission structure, not a trigger.
+
+The mechanism that makes AVGO interesting here is the same ORCL spillover that supports holding your existing semi sleeve: custom silicon, networking, and ASIC demand sit downstream of the cloud infrastructure build Oracle just quantified. The second-order effect for this book is different from “buy semis.” You already own SMH, SOXX, NVDA, and ASML. Adding Broadcom only helps if it is a clean, defined, shares-only dip that does not require you to chase mid-zone into a hike base case. Paying $365–372 because “it is still inside the zone” is how zone maps get abused. The zone is the map; the preferred band is the actual trigger.
+
+Why now (conditional): Only if price gives the dip. Mid-zone $364–372 into a hike-base-case FOMC is a chase dressed up as “still in the zone.” Ex-div around Sep 21 (~$0.65 per CNBC) is a calendar footnote, not a reason to buy early. Invalidation stays a daily close under $344 — that is the structural break below the brother band, not a noisy hourly wick.
+
+Trigger: Buy shares on a pullback into $358–362 only. Do not chase ~$365.
+
+Invalidation: Daily close under $344.
+
+Vehicle: Shares only (IV / event week bars calls). Fund from SPAXX; this is a watch-to-buy, not an add to an existing Broadcom line.
+
+Confidence: Medium — structure intact; timing gated by FOMC.
+
+Vs brother: Zone KEEP; actionable band MOVE tighter to the lower third / preferred dips only.
+
+For your book: One clean Broadcom dip is the highest-quality non-stack swing on the board today because it expresses AI networking without forcing another QQQ or SMH add. If the dip never comes before Wednesday, that is a successful wait, not a missed trade.
+
+### 2) ISRG — KEEP primary $360–378 / stop $326 · deep KILL · preferred MOVE → wait $360–365
+
+Intuitive is ~$368.8 (+2.3%) after Thursday’s deep tag ($345.25) and reclaim close ($360.46), with Friday’s high pushing toward the mid-$370s. The deep zone already did its job; that print happened. Chasing mid-primary after a +2% bounce is optional risk at best, especially with equity beta still live into FOMC even though ISRG is less oil-sensitive than semis. Daily structure: the Thursday wash into the mid-$340s and the reclaim through $360 was the test the primary band needed. Friday’s extension into the mid-$360s/$370s is strength, which is the opposite of a fresh discount. Hourly: higher lows off the reclaim, which is constructive for holders and unhelpful for new buyers who need a pullback.
+
+The mechanism for keeping ISRG on the map at all is idiosyncratic quality: robotic surgery demand, hospital capex cycles, and a name that is not a pure oil-beta semi. The second-order effect into this week is that even high-quality med-tech still trades equity beta when the Fed path hardens, so a mid-zone chase into Wednesday is still paying for timing risk you do not need. Deep-zone buying as a fresh plan today is dead because the print already occurred; pretending it is still available is how seed calendars turn into lagging orders.
+
+Trigger: Only on a pullback that holds $360–365 through the session — confirmation matters more than the first touch. A wick into $360 that fails is not the setup; a hold that survives the session is.
+
+Invalidation: Daily close under $326.
+
+Vehicle: Shares. No LEAP.
+
+Confidence: Medium-low for new risk today (already mid-zone).
+
+Vs brother: Primary KEEP; deep-as-fresh-entry KILL; trigger MOVE to pullback-only $360–365.
+
+For your book: Optional only. This is not the primary swing; AVGO dips rank higher because Broadcom is not held and fills a networking/ASIC gap without stacking the names you already own. If ISRG never pulls back into $360–365 before FOMC, skip it without regret.
+
+### 3) AMAT — KEEP $445–475 / stop $428 · preferred MOVE → $445–455 · mid-zone do nothing
+
+Applied is ~$462.6 — mid/upper band after Thursday’s −3% wash to $454. WFE / AI-capex narrative is intact via Oracle and the broader semi bounce, but buying $460+ stacks more semi beta you already own via SMH / ASML / NVDA. Daily structure: Thursday’s wash tagged the middle of the brother band and bounced; Friday’s +1.9% bid pushed it back toward the upper half. That is not a broken chart. It is also not a gift. Hourly: bounce continuation, not a retest of the preferred $445–455 pocket. The brother zone remains valid as a map; the preferred entry is the only part that is actionable.
+
+The mechanism that keeps AMAT on the watch list is wafer-fab equipment leverage to the same AI build Oracle just confirmed. The second-order effect for your book is concentration: every mid-zone AMAT buy is another vote for semi beta you already express three or four ways. Preferred entry at $445–455 exists specifically so you are not forced to invent urgency at $462. Invalidation on a daily close under $428 protects against a true breakdown of the band; until then, mid-zone is patience, not FOMO.
+
+Trigger: Prefer $445–455 only.
+
+Invalidation: Daily close under $428.
+
+Vehicle: Shares. Concentration-aware.
+
+Confidence: Low-medium until closer to $450.
+
+Vs brother: Zone KEEP; preferred entry MOVE lower; treat current ~$462 as do nothing.
+
+For your book: Do nothing at current levels. If AMAT never revisits $445–455 into next week, that is fine — the AI-capex thesis is already owned through the semi sleeve without forcing a mid-zone fill.
+
+### Killed / blocked
+
+- NVDA add $190–198 — KILL (already long far above; concentration; hike week). Spot ~$219; brother seed is not actionable for this book.
+- ORCL chase — KILL (confirmation ≠ entry; far above any value zone).
+- QQQ / TQQQ / SMH / SOXX adds — blocked (Nasdaq stack ~23% / semi stack ~20% of the equity sleeve).
+- New LEAPs / average GOOG 375C — blocked. Babysit only; underwater mark vs cost is not an average-down signal.
+- Optional new name (UBER ~$72 / NVO soft) — NONE (neither clears “truly excellent + helps concentration” into FOMC).
+- BE chase — blocked (inclusion rip, not a setup).
+
+Actionable count today: 1 primary (AVGO dips $358–362), 1 optional (ISRG $360–365 pullback), else cash. Prefer quality over activity. NONE TODAY beyond those dips is a valid call if FOMC risk is the real trade.
+
+---
+
+## Catalysts
+
+| When (PT) | What |
+|---|---|
+| Done Fri 05:30 | August CPI (BLS) — headline in-line, core MoM hot; hike odds → ~86–90% |
+| Done Thu | Hot PPI (diesel +24% MoM in goods) · ORCL beat AMC (IaaS +121%, RPO $664B) |
+| Mon (reported) | Possible Gulf–Iran Hormuz shipping talks in Salalah, Oman (FT report; unverified by Reuters) — oil headline risk either way |
+| Sep 15–16 · Wed ~11:00am PT | FOMC + SEP/dots — hike base case post-CPI; statement + dots matter as much as the binary |
+| Sep 21 | BE enters S&P 500 · AVGO ex-div ~$0.65 (CNBC) — calendar footnotes, not chase signals |
+
+---
+
+## More reading
+
+1. CNBC — August CPI wrap (https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html) — Primary split-print source (headline in-line, core MoM hot) that unlocked the equity bounce while hardening the hike path into your Nasdaq multiples.
+2. CNBC — Wall Street on CPI / hike odds (https://www.cnbc.com/2026/09/11/august-consumer-inflation-cements-fed-rate-hike-odds-what-wall-street-is-saying.html) — Lyngen / Cronk / Weinand quotes that turn “desk opinion” into the consensus your book is discounting (~86–90% hike odds).
+3. BLS — CPI news release (https://www.bls.gov/news.release/cpi.nr0.htm) — Official gasoline / energy / shelter drivers behind the print; use this when citing pass-through into the oil → CPI → Fed chain.
+4. Reuters — Oil Fri, weekly >$100 track (https://www.reuters.com/business/energy/oil-prices-set-end-week-over-100-first-time-nearly-4-months-2026-09-11/) — Why Friday’s fade is relief, not regime change: still on pace for first >$100 weekly close since mid-May with diesel at record retail.
+5. Reuters — Hormuz traffic falls to single digits (https://www.reuters.com/world/middle-east/hormuz-shipping-traffic-falls-to-single-digits-data-shows-2026-09-11/) — Seven-vessel Thursday transit vs ~125 pre-war; the structural supply fact that keeps hike risk alive even when Brent cools a few dollars.
+6. Reuters — Oil Thu tanker attacks (https://www.reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10/) — Thursday’s +6% oil shock context that set up the PPI/CPI week and the soft NW (−0.40% 1W) your tracker already shows.
+7. Reuters — Oracle AI-cloud beat (https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10/) — RPO $664B / IaaS +121% confirmation that supports holding MSFT/NVDA/SMH/ASML without authorizing a chase.
+8. CNBC — Oracle Q1 Friday follow-through (https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html) — Friday spillover color for the owned stack and the reason “confirmation ≠ entry” matters into FOMC.
+9. Oracle PR — Q1 FY27 cloud/IaaS (https://www.prnewswire.com/news-releases/oracle-announces-q1-results-driven-by-triple-digit-growth-in-cloud-infrastructure-revenues-302875728.html) — Primary numbers (850 MW, 300k+ GPUs, FY27 ≥$90B) behind the AI-infra counterweight in the lead.
+10. Meta — Introducing Muse (https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/) — Owned-name catalyst primary; hold, do not FOMO the post-launch range into Wednesday.
+11. Google Cloud — Finland €13bn AI infra (https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure) — Long-cycle support for the GOOG LEAP thesis (capex + power) that does not rewrite the $323 babysit rule.
+12. Fed — September 2026 calendar (https://www.federalreserve.gov/newsevents/2026-september.htm) — Official FOMC Sep 15–16 timing for the hike base case that gates every mid-zone add in this letter.
+
+---
+
+### Charts to embed (FULL-RES only)
+
+1. `/workspace/leaps/morning-2026-09-11/chart-oil.jpg` — WTI/Brent 3m oil shock + Friday cool (macro channel; illustrative of the CPI/FOMC tape, not an owned ticker).
+2. `/workspace/leaps/morning-2026-09-11/chart-goog-avgo.jpg` — GOOG babysit $323 + AVGO $358–372 / stop $344 (his exact LEAP babysit and watch-only Broadcom map).
+3. `/workspace/leaps/morning-2026-09-11/chart-qqq-smh.jpg` — QQQ vs SMH indexed 3m concentration / relative strength (exact owned ETFs; visual of semi-sleeve drag).
+
+### Optional TrendSpider / desk assets worth attaching
+
+4. `/workspace/markets-desk/newsletter-v3c-assets/ts-meta.jpg` — TrendSpider META Muse gap (illustrative community signal for owned META; not a size/P&L chart).
+5. `/workspace/markets-desk/newsletter-v3c-assets/ts-skhynix.jpg` — TrendSpider SK Hynix ATH breakout (illustrative memory/HBM ecosystem color under SMH; not owned).
+6. `/workspace/markets-desk/newsletter-v3c-assets/oil-rig.jpg` / `oil-context.jpg` — Oil visual context if the line chart needs a second frame.
+7. `/workspace/markets-desk/newsletter-v3c-assets/fed.jpg` — FOMC visual for the hike-base-case week.
+8. `/workspace/markets-desk/newsletter-v3c-assets/data-center.jpg` — Hyperscaler / AI power visual tying ORCL + Google Finland + BE.
+
+Prefer the three full-res morning charts first; attach TrendSpider only if payload allows without crushing JPEGs.
+
+---
+
+Tap Not junk / Never junk this sender for @agentmail.to if Outlook junks it.  
+Sources: Yahoo Finance (~9:33am PT Fri Sep 11, 2026), BLS, CNBC, Reuters, PR Newswire, CME FedWatch via CNBC. Afternoon color stamped from CNBC/Reuters Fri wraps. Live book from Investment Tracker screenshot ~10:48 CDMX + dashboard JSON ~10:42 CDMX. Never place trades. No qty or P&L tables.
